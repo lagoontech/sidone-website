@@ -5,37 +5,37 @@
   
   @media (max-width: 2101px) {
     .responsive-image {
-      width: 45% !important;
+      width: 65% !important;
     }
   }
   
   @media (max-width: 2048px) {
     .responsive-image {
-      width: 45% !important;
+      width: 65% !important;
     }
   }
   
   @media (max-width: 1536px) {
     .responsive-image {
-      width: 40% !important;
+      width: 60% !important;
     }
   }
   
   @media (max-width: 1024px) {
     .responsive-image {
-      width: 37% !important;
+      width: 50% !important;
     }
   }
   
   @media (max-width: 768px) {
     .responsive-image {
-      width: 35% !important;
+      width: 45% !important;
     }
   }
   
   @media (max-width: 300px) {
     .responsive-image {
-      width: 33% !important;
+      width: 40% !important;
     }
   }
   
